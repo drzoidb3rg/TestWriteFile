@@ -1,0 +1,8 @@
+C:\temp\TestWriteFile\bin\Debug\TestWriteFile.exe.config
+C:\temp\TestWriteFile\obj\Debug\TestWriteFile.csprojResolveAssemblyReference.cache
+C:\temp\TestWriteFile\bin\Debug\TestWriteFile.exe
+C:\temp\TestWriteFile\bin\Debug\TestWriteFile.pdb
+C:\temp\TestWriteFile\obj\Debug\TestWriteFile.exe
+C:\temp\TestWriteFile\obj\Debug\TestWriteFile.pdb
+C:\temp\TestWriteFile\bin\Debug\ChinhDo.Transactions.dll
+C:\temp\TestWriteFile\bin\Debug\ChinhDo.Transactions.xml
